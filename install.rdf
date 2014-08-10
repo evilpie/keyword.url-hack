@@ -7,7 +7,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>keyword@evilpie.com</em:id>
     <em:name>keyword.URL Hack!</em:name>
-    <em:version>0.3.0</em:version>
+    <em:version>0.4.0</em:version>
     <em:description>Brings back the keyword.URL pref on Firefox 23 and up.</em:description>
     <em:creator>Tom Schuster</em:creator>
     <em:homepageURL/>
@@ -19,7 +19,7 @@
         <!-- Firefox -->
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
         <em:minVersion>23.0</em:minVersion>
-        <em:maxVersion>24.0</em:maxVersion>
+        <em:maxVersion>31.0</em:maxVersion>
       </Description>
     </em:targetApplication>
   </Description>

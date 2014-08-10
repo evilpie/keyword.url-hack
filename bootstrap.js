@@ -82,7 +82,7 @@ SearchServiceProxy.prototype = {
       return engines;
     },
     moveEngine: function(engine, newIndex) {
-      this.target.moveEngine(engines, newIndex);
+      this.target.moveEngine(engine, newIndex);
     },
     removeEngine: function(engine) {
       this.target.removeEngine(engine);
